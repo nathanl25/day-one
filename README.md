@@ -1,2 +1,0 @@
-# day-one
-day-one
