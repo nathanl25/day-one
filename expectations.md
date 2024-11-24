@@ -11,7 +11,9 @@ They should push me based on what I know, but apply gentle pressure
 They should not just be focused on the coding but also develop people person skills as well
 
 
+
 Expectations From Individuals
+
 I should not aim to to do the bare minimum but rather, do as much as I can, especially if I think I can do more
 
 If I get stuck, I should try find other resources instead of immediately asking for a solution
