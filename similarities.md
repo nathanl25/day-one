@@ -4,9 +4,9 @@ Rhea - Both worked in a clinical setting
 
 Petr - Both played tennis
 
-Murielle - Oat milk
+Murielle - Oat milk in coffee
 
-Shreyashi - We both cook
+Shreyashi - We are both coffee drinkers
 
 James - Did a TAFE course in webdev
 
@@ -18,7 +18,7 @@ Shireen - Both worked in hospitals
 
 Ceara - Both play games ARPGS
 
-Priyanka - ?
+Priyanka - Making pizza
 
 Nisha - 2 sibling (brothers and sister)
 
